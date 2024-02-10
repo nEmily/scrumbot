@@ -1,0 +1,6 @@
+# An example file of .env
+# To set up a development env, create a copy of this file and rename it to .env
+# Replace ########### with the correct keys. Contact author for key.
+DISCORD_TOKEN=###########
+APP_ID=###########
+PUBLIC_KEY==###########
